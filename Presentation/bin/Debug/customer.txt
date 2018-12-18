@@ -1,0 +1,5 @@
+Customer Name: a,Customer Address: a,Customer Reference number 2
+Booking Arrival Date: 10/12/2017 00:00:00,Booking Departure Date: 15/12/2017 00:00:00,Booking Chalet ID 1,Booking Reference number 1
+Guest Name: a,Guest Passport Number: 123456789a,Guest Age 10
+Booking was made for 5days.
+Number of guests: 1Total Cost of the Booking 1075

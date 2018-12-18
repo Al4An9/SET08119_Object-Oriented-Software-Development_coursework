@@ -1,0 +1,17 @@
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\MainWindow.baml
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\App.g.cs
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\bin\Debug\Presentation.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\bin\Debug\Presentation.pdb
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\bin\Debug\Business.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\bin\Debug\DataLayer.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\bin\Debug\Business.pdb
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\bin\Debug\DataLayer.pdb
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\Presentation.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Presentation\obj\Debug\Presentation.pdb

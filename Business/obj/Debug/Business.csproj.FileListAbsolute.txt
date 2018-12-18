@@ -1,0 +1,7 @@
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Business\bin\Debug\Business.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Business\bin\Debug\Business.pdb
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Business\obj\Debug\Business.Properties.Resources.resources
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Business\obj\Debug\Business.csproj.GenerateResource.Cache
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Business\obj\Debug\Business.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Business\obj\Debug\Business.pdb
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache

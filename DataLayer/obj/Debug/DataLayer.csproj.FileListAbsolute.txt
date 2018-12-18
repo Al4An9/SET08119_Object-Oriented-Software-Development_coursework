@@ -1,0 +1,9 @@
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\DataLayer\bin\Debug\DataLayer.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\DataLayer\bin\Debug\Business.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\DataLayer\bin\Debug\Business.pdb
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\DataLayer\obj\Debug\DataLayer.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\HolidayChalet\DataLayer\obj\Debug\DataLayer.pdb
